@@ -1664,7 +1664,7 @@
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
         "status": 1,
-        "version": 90,
+        "version": 91,
         "name": "TorraStream",
         "internalName": "TorraStream",
         "authors": [
@@ -1683,7 +1683,7 @@
         ],
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-406c378504946d5345de15dc485ce5931b3343592fba65a3235b9b77d9f103d5"
+        "fileHash": "sha256-4e844aff1d7e62b7ab88e73620d9e3a6d9b999fe844a6036e018a8e3c8bf40d4"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
