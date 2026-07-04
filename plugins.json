@@ -377,14 +377,14 @@
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anizone.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "Anizone",
         "internalName": "Anizone",
         "authors": [
             "ycngmn"
         ],
         "description": "Anizone.to streams latest anime content in multiple language.",
-        "fileSize": 18655,
+        "fileSize": 19598,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -392,7 +392,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/icons/anizone.png",
         "apiVersion": 1,
-        "fileHash": "sha256-fe494d0cf92415f1390579701d12510850b420944c8badca84c5bdf7585ab666"
+        "fileHash": "sha256-5bbdaba352b0c5c3e91e8667019e90c97711f2152cd844255e384de440aaf2de"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.cs3",
