@@ -776,6 +776,31 @@
         "jarHash": "sha256-82ba3d0fc245735c5917e106df077563b15e8f988c8a9b7cfbd84a2cb784e88e"
     },
     {
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "IStreamFlare",
+        "internalName": "IStreamFlare",
+        "authors": [
+            "Phisher98"
+        ],
+        "description": "Movies/Series/Anime",
+        "fileSize": 48791,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "hi",
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ec791c413a3235be53424e49bf41539abcd586919ef8875858347b883318a8ac"
+    },
+    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Jellyfin.cs3",
         "status": 1,
         "version": 4,
